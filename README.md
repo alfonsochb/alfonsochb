@@ -10,6 +10,9 @@
 ## Soy profesional en Ingeniería de Sistemas con Especialización en Gerencia de Proyectos.
 ### Cuento con sólidos conocimientos y experiencia en análisis, diseño y desarrollo de software:
 <ul>
+    <li><b>Stack LAMP:</b> Linux, Apache, MySql, Php</li>
+    <li><b>Stack WAMP:</b> Windows, Apache, MySql, Php</li>
+    <li><b>Stack PERN:</b> PostgreSql, Express, Angular, NodeJs</li>
     <li>PHP, Frameworks: Laravel, CodeIgniter, CakePhp, Yii</li>
     <li>JavaScript, Ajax, jQuery, VueJs, ReactJS, AngularJS</li>
     <li>Maquetación de aplicaciones: HTML5, CSS3, Bootstrap</li>
