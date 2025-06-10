@@ -1,11 +1,5 @@
 ![GitHub: Alfonso Chávez Baquero](./img/achb.png)
 
-<p align="center">
-    <a href="https://github.com/alfonsochb">
-        <img src="./img/achb.svg" alt="Alfonso Chávez" style="max-width:100%;">
-    </a>
-</p>
-
 # ¡Bienvenidos a mi repositorio GitHub!
 ## Soy profesional en Ingeniería de Sistemas con Especialización en Gerencia de Proyectos.
 ### Cuento con sólidos conocimientos y experiencia en análisis, diseño y desarrollo de software:
