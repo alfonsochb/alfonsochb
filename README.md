@@ -1,5 +1,3 @@
-![GitHub: Alfonso Chávez Baquero](./img/achb.png)
-
 # ¡Bienvenidos a mi repositorio GitHub!
 ## Soy profesional en Ingeniería de Sistemas con Especialización en Gerencia de Proyectos.
 ### Cuento con sólidos conocimientos y experiencia en análisis, diseño y desarrollo de software:
